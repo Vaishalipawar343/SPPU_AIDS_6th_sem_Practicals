@@ -1,0 +1,3 @@
+ download the CIFAR-10 dataset from caggle and extract it in data folder
+
+https://www.kaggle.com/datasets/janzenliu/cifar-10-batches-py
